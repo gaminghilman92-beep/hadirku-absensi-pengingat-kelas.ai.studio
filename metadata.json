@@ -1,0 +1,6 @@
+{
+  "name": "HadirKu — Absensi & Pengingat Kelas",
+  "description": "Aplikasi absensi sekolah sederhana dengan login password, pilihan kelas dan mata pelajaran, bukti foto, centang kehadiran, motivasi harian, serta notifikasi pengingat jadwal pelajaran.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
